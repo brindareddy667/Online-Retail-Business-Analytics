@@ -27,8 +27,9 @@ Dataset used: https://www.kaggle.com/datasets/divanshu22/online-retail-dataset?u
 * **Pandas**
 * **NumPy**
 * **Matplotlib**
+* **SQL (SQLite)**
 * **Power BI**
-* **Jupyter Notebook**
+* **Google Colab**
 
 ## 📊 Project Workflow
 
