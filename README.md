@@ -8,6 +8,8 @@ This project focuses on analyzing an online retail dataset containing transactio
 
 The project combines **Python-based data analysis** with an interactive **Power BI dashboard** to turn raw transactional data into clear and actionable business insights.
 
+Dataset used: https://www.kaggle.com/datasets/divanshu22/online-retail-dataset?utm_source=chatgpt.com
+
 ## 🎯 Objectives
 
 * Clean and prepare raw retail transaction data for analysis.
