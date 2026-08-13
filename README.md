@@ -100,55 +100,6 @@ The project uses the processed data and dashboard visualizations to identify:
 
 > **Note:** Specific insights and numerical findings are based on the dataset used in this project and are documented within the analysis/dashboard.
 
-## 📁 Project Structure
-
-```text
-Online-Retail-Business-Analytics/
-│
-├── data/
-│   └── OnlineRetail_Cleaned.csv
-│
-├── notebooks/
-│   └── Online_Retail_Analysis.ipynb
-│
-├── powerbi/
-│   └── Online_Retail_Dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
-```
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd Online-Retail-Business-Analytics
-```
-
-### 2. Install the required Python libraries
-
-```bash
-pip install pandas numpy matplotlib jupyter
-```
-
-### 3. Run the analysis
-
-Open the Jupyter Notebook:
-
-```bash
-jupyter notebook
-```
-
-Run the cells to perform the data cleaning, exploratory analysis, and visualizations.
-
-### 4. Open the Power BI Dashboard
-
-Open the `.pbix` file using **Microsoft Power BI Desktop** to explore the interactive dashboard.
-
 ## 📌 Skills Demonstrated
 
 * Data Cleaning
@@ -162,11 +113,5 @@ Open the `.pbix` file using **Microsoft Power BI Desktop** to explore the intera
 * Business Analytics
 * Data-driven Decision Making
 
-## 👩‍💻 Author
 
-**Brinda Reddy**
 
-B.Tech Computer Science Engineering
-Woxsen University
-
-[GitHub](https://github.com/brindareddy667)
